@@ -1,10 +1,6 @@
-tems 1
-city guid
-tems 2
-brodilka
-tems 3
-college quest
-tems 4
-computer simulator
-tems 5
-shooting games
+Копьева
+гид по городу
+бродилка
+квест по колледжу
+симулятор компьютера
+стрелялка
